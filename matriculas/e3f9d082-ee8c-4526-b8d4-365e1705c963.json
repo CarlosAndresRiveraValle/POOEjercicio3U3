@@ -1,0 +1,60 @@
+{
+  "numero": "e3f9d082-ee8c-4526-b8d4-365e1705c963",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 18,
+    "second": 52
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Jose Armando",
+    "apellido": "Galarza Cruz",
+    "cedula": "1716778812"
+  },
+  "curso": {
+    "titulo": "Programación Orientado a Objetos ",
+    "costo": 110.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 18
+      },
+      "valor": 19.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 21
+      },
+      "valor": 15.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 24
+      },
+      "valor": 6.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.333333
+}

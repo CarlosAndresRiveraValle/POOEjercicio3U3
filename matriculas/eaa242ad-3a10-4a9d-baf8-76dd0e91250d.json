@@ -1,0 +1,60 @@
+{
+  "numero": "eaa242ad-3a10-4a9d-baf8-76dd0e91250d",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 17,
+    "second": 59
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Jose Armando",
+    "apellido": "Galarza Cruz",
+    "cedula": "1716778812"
+  },
+  "curso": {
+    "titulo": "Música ",
+    "costo": 140.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 18,
+        "second": 33
+      },
+      "valor": 18.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 18,
+        "second": 36
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 18,
+        "second": 39
+      },
+      "valor": 13.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 17.0
+}

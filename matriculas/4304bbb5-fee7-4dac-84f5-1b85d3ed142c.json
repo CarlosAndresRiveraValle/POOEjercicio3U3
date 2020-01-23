@@ -1,0 +1,60 @@
+{
+  "numero": "4304bbb5-fee7-4dac-84f5-1b85d3ed142c",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 9,
+    "minute": 14,
+    "second": 37
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "AndresR",
+    "apellido": "Rivera",
+    "cedula": "1718156241"
+  },
+  "curso": {
+    "titulo": "Música ",
+    "costo": 30.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 9,
+        "minute": 15,
+        "second": 32
+      },
+      "valor": 16.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 1
+      },
+      "valor": 15.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 6
+      },
+      "valor": 18.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.333334
+}

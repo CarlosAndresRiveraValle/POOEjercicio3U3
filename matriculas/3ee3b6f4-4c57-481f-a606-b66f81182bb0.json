@@ -1,0 +1,60 @@
+{
+  "numero": "3ee3b6f4-4c57-481f-a606-b66f81182bb0",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 15,
+    "second": 34
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Pepe Luis",
+    "apellido": "Lucas Garces",
+    "cedula": "1716748203"
+  },
+  "curso": {
+    "titulo": "Música ",
+    "costo": 140.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 41
+      },
+      "valor": 9.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 44
+      },
+      "valor": 16.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 17,
+        "second": 46
+      },
+      "valor": 18.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.333333
+}

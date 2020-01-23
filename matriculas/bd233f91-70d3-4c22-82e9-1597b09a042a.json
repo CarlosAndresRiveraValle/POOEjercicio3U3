@@ -1,0 +1,29 @@
+{
+  "numero": "bd233f91-70d3-4c22-82e9-1597b09a042a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 21,
+    "second": 19
+  },
+  "estado": "Registrada",
+  "estudiante": {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de danza",
+      "Club de Musica",
+      "Club de andinismo"
+    ],
+    "nombre": "Francis Daniela",
+    "apellido": "Armas Toapanta",
+    "cedula": "1724704695"
+  },
+  "curso": {
+    "titulo": "Carpintería ",
+    "costo": 50.0
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

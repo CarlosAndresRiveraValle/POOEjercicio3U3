@@ -1,0 +1,60 @@
+{
+  "numero": "f4c80550-aa3b-4122-b473-2a5bf8c9a914",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 19,
+    "second": 47
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Maria Jose",
+    "apellido": "Lopez Castro",
+    "cedula": "1866773812"
+  },
+  "curso": {
+    "titulo": "Programación Orientado a Objetos ",
+    "costo": 110.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 19,
+        "second": 58
+      },
+      "valor": 9.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 1
+      },
+      "valor": 13.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 4
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.0
+}

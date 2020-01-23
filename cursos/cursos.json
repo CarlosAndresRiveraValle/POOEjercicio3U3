@@ -1,0 +1,7 @@
+[
+  {"titulo":"Música ", "costo": 140, "Descripcion":"Piano"},
+  {"titulo":"Carpintería ", "costo": 50, "Descripcion":"Corte"},
+  {"titulo":"Cálculo Vectorial", "costo": 70, "Descripcion":"Integral triple"},
+  {"titulo":"Inglés ", "costo": 35, "Descripcion":"Avanzado"},
+  {"titulo":"Programación Orientado a Objetos ", "costo": 110, "Descripcion":"Herencia"}
+]

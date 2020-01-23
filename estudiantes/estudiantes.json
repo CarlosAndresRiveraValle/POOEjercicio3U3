@@ -1,0 +1,88 @@
+[
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de Musica",
+      "Club de Artes"
+    ],
+    "nombre": "Luis Antonio",
+    "apellido": "Espinoza Reinoso",
+    "cedula": "1722592231"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de Software"
+    ],
+    "nombre": "Francis Daniela",
+    "apellido": "Armas Toapanta",
+    "cedula": "1724704695"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club de danza",
+      "Club de Musica",
+      "Club de andinismo"
+    ],
+    "nombre": "Francis Daniela",
+    "apellido": "Armas Toapanta",
+    "cedula": "1724704695"
+  },
+  null,
+  {
+    "carrera": "Ingenieria de Electronica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de Artes"
+    ],
+    "nombre": "Pepe Luis",
+    "apellido": "Lucas Garces",
+    "cedula": "1716748203"
+  },
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club de danza",
+      "Club de Musica",
+      "Club de andinismo",
+      "Club de Escultura"
+    ],
+    "nombre": "Jose Armando",
+    "apellido": "Galarza Cruz",
+    "cedula": "1716778812"
+  },
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club de danza",
+      "Club de Musica",
+      "Club de andinismo",
+      "Club de Escultura"
+    ],
+    "nombre": "Sofia Daniela",
+    "apellido": "Villamarin Rivera",
+    "cedula": "1716778812"
+  },
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club de Escultura",
+      "Club de Software",
+      "Club de Artes"
+    ],
+    "nombre": "Kelly Rebeca",
+    "apellido": "Valle Sanchez",
+    "cedula": "1716778812"
+  },
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club de danza"
+    ],
+    "nombre": "Maria Jose",
+    "apellido": "Lopez Castro",
+    "cedula": "1866773812"
+  }
+]

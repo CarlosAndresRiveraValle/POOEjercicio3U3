@@ -1,0 +1,29 @@
+{
+  "numero": "bdc97888-3c4b-4773-9708-91d06020a568",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 20,
+    "second": 34
+  },
+  "estado": "Registrada",
+  "estudiante": {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club de Escultura",
+      "Club de Software",
+      "Club de Artes"
+    ],
+    "nombre": "Kelly Rebeca",
+    "apellido": "Valle Sanchez",
+    "cedula": "1716778812"
+  },
+  "curso": {
+    "titulo": "Carpintería ",
+    "costo": 50.0
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

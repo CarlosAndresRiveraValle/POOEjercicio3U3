@@ -1,0 +1,60 @@
+{
+  "numero": "9ad61fec-c5cb-4d11-bcb2-19ce32ad396f",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 11,
+    "minute": 12,
+    "second": 50
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Francis Daniela",
+    "apellido": "Armas Toapanta",
+    "cedula": "1724704695"
+  },
+  "curso": {
+    "titulo": "Matemática Superior ",
+    "costo": 40.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 11,
+        "minute": 13,
+        "second": 25
+      },
+      "valor": 0.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 11,
+        "minute": 13,
+        "second": 35
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 11,
+        "minute": 13,
+        "second": 45
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.333333
+}

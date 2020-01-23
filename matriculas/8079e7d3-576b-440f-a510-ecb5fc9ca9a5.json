@@ -1,0 +1,60 @@
+{
+  "numero": "8079e7d3-576b-440f-a510-ecb5fc9ca9a5",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 5,
+    "second": 41
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Anthony",
+    "apellido": "Espinoza",
+    "cedula": "0502592231"
+  },
+  "curso": {
+    "titulo": "Música ",
+    "costo": 140.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 17
+      },
+      "valor": 11.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 20
+      },
+      "valor": 16.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 16,
+        "second": 25
+      },
+      "valor": 13.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.333333
+}
